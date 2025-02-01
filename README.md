@@ -1,4 +1,4 @@
-# `libretro-pcsx-rearmed-bin`
+# `libretro-gearboy-bin`
 
 universal recipe for [user repo](../themartiancompany/ur).
 
